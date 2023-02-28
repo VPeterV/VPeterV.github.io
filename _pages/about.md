@@ -21,7 +21,7 @@ Hi, my name is Wei Liu (刘威). Currently, I am a second-year graduate student 
 
 To be more specific, my research interests lie in:
   - **Structured prediction** (parsing, application of parsing algorithm to downstream tasks)
-  - **Few-shot Learning** (application of PLMs/LLMs to zero/few-shot secnario)
+  - **Few-shot Learning** (application of PLMs/LLMs to zero/few-shot scenario)
   - **Efficient sequence modeling**
   - **Knowledge-enhanced NLP**
   
@@ -49,7 +49,7 @@ In Proceedings of NLPCC, 2019.
 # 💻 Internships
 - *2022.07 - Present*, Alibaba DAMO academy
   - Doing some research about **pre-trained language models** and **few-shot learning**
-  - One of developers of [AdaSeq](https://github.com/modelscope/AdaSeq)
+  - One of the developers of [AdaSeq](https://github.com/modelscope/AdaSeq)
 
 # 📖 Educations
 - *2021.09 - Present*, ShanghaiTech University, M.S. in computer science

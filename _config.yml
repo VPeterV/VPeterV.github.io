@@ -5,6 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
 # Site Settings
 title                    : "Wei Liu"
 description              : "Master student at ShanghaiTech University. Focusing on Natural Language Processing, Machine Learning"
@@ -15,7 +16,7 @@ google_scholar_stats_use_cdn : false
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification : "google-site-verification=ye6TT4dT3O3hZdG84PSK-_8ikJSnLs3Rg286eFaM_c8" # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification : "ye6TT4dT3O3hZdG84PSK-_8ikJSnLs3Rg286eFaM_c8" # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 

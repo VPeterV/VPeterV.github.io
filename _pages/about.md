@@ -20,13 +20,16 @@ redirect_from:
 Hi, my name is Wei Liu (刘威). Currently, I am a second-year graduate student at ShanghaiTech University, advised by Prof. [KeWei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). I am focusing on natural language processing (NLP) and machine learning (ML).
 
 To be more specific, my research interests lie in:
-  - **Structured prediction** (parsing, application of parsing algorithm to downstream tasks)
-  - **Few-shot Learning** (application of PLMs/LLMs to zero/few-shot scenario)
-  - **Efficient sequence modeling**
-  - **Knowledge-enhanced NLP**
-  
+    **Efficient Sequence Modeling**: Exploring more efficient model architecture, particularly for long-range sequence.
+    **Structured Predictions**: Parsing and application of parsing algorithm in downstream tasks.
+    **Deep Generative Models**: Deep Latent-variable models.
+    **Large Language Models (LLMs)**: Explorations of their Emergent Capabilities and Applications in Complex Scenarios.
 
 # 📝 Publications (* denotes equal contribution)
+
+Structured Mean-Field Variational Inference for Higher-Order Span-Based Semantic Role (submitted)
+
+Joint Entity and Relation Extraction with Span Pruning and Hypergraph Neural Networks (submitted)
 
 [Dynamic Programming in Rank Space: Scaling Structured Inference with Low-Rank HMMs and PCFGs](https://aclanthology.org/2022.naacl-main.353.pdf)
 
@@ -50,6 +53,7 @@ In Proceedings of NLPCC, 2019.
 - *2022.07 - Present*, Alibaba DAMO academy
   - Doing some research about **pre-trained language models** and **few-shot learning**
   - One of the developers of [AdaSeq](https://github.com/modelscope/AdaSeq)
+  - [MAOE (Paper underwriting)](https://www.modelscope.cn/models/damo/nlp_maoe_named-entity-recognition_general/summary): A pre-trained language model that supports (ultra-)fine-grained named entity recognition. Welcome to experience our model: [Experience Entry](https://www.modelscope.cn/studios/TTCoding/maoe_fsl_ner/summary)
 
 # 📖 Educations
 - *2021.09 - Present*, ShanghaiTech University, M.S. in computer science

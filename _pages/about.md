@@ -53,7 +53,7 @@ In Proceedings of NLPCC, 2019.
 - *2022.07 - Present*, Alibaba DAMO academy
   - Doing some research about **pre-trained language models** and **few-shot learning**
   - One of the developers of [AdaSeq](https://github.com/modelscope/AdaSeq)
-  - [MAOE (Paper underwriting)](https://www.modelscope.cn/models/damo/nlp_maoe_named-entity-recognition_general/summary): A pre-trained language model that supports (ultra-)fine-grained named entity recognition. Welcome to experience our model: [Experience Entry](https://www.modelscope.cn/studios/TTCoding/maoe_fsl_ner/summary)
+  - [MAOE (Paper underwriting)](https://www.modelscope.cn/models/damo/nlp_maoe_named-entity-recognition_general/summary): A pre-trained language model that supports (ultra-)fine-grained named entity recognition. Welcome to try out our model: [Try it now](https://www.modelscope.cn/studios/TTCoding/maoe_fsl_ner/summary)
 
 # 📖 Educations
 - *2021.09 - Present*, ShanghaiTech University, M.S. in computer science

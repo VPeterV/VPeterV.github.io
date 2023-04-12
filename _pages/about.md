@@ -20,10 +20,10 @@ redirect_from:
 Hi, my name is Wei Liu (刘威). Currently, I am a second-year graduate student at ShanghaiTech University, advised by Prof. [KeWei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). I am focusing on natural language processing (NLP) and machine learning (ML).
 
 To be more specific, my research interests lie in:
-    **Efficient Sequence Modeling**: Exploring more efficient model architecture, particularly for long-range sequence.
-    **Structured Predictions**: Parsing and application of parsing algorithm in downstream tasks.
-    **Deep Generative Models**: Deep Latent-variable models.
-    **Large Language Models (LLMs)**: Explorations of their Emergent Capabilities and Applications in Complex Scenarios.
+  - **Efficient Sequence Modeling**: Exploring more efficient model architecture, particularly for long-range sequence.
+  - **Structured Predictions**: Parsing and application of parsing algorithm in downstream tasks.
+  - **Deep Generative Models**: Deep Latent-variable models.
+  - **Large Language Models (LLMs)**: Explorations of their Emergent Capabilities and Applications in Complex Scenarios.
 
 # 📝 Publications (* denotes equal contribution)
 

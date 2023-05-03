@@ -27,10 +27,13 @@ To be more specific, my research interests lie in:
 
 # 📝 Publications (* denotes equal contribution)
 
-Structured Mean-Field Variational Inference for Higher-Order Span-Based Semantic Role (submitted)
+Structured Mean-Field Variational Inference for Higher-Order Span-Based Semantic Role Labeling
 
-Joint Entity and Relation Extraction with Span Pruning and Hypergraph Neural Networks (submitted)
+In Findings of ACL, 2023.
 
+**Wei Liu**, Songlin Yang, Kewei Tu
+
+<!-- Joint Entity and Relation Extraction with Span Pruning and Hypergraph Neural Networks (submitted) -->
 [Dynamic Programming in Rank Space: Scaling Structured Inference with Low-Rank HMMs and PCFGs](https://aclanthology.org/2022.naacl-main.353.pdf)
 
 Songlin Yang\*, **Wei Liu\***, Kewei Tu

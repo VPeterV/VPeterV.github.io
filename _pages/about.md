@@ -27,9 +27,9 @@ To be more specific, my research interests lie in:
 
 # 📝 Publications (* denotes equal contribution)
 
-Structured Mean-Field Variational Inference for Higher-Order Span-Based Semantic Role Labeling
+[Structured Mean-Field Variational Inference for Higher-Order Span-Based Semantic Role Labeling](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/acl23srl.pdf)
 
-In Findings of ACL, 2023.
+In Findings of ACL, 2023. [code](https://github.com/VPeterV/Structured-MFVI)
 
 **Wei Liu**, Songlin Yang, Kewei Tu
 

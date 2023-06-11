@@ -38,7 +38,7 @@ In Findings of ACL, 2023. [code](https://github.com/VPeterV/Structured-MFVI)
 
 Songlin Yang\*, **Wei Liu\***, Kewei Tu
 
-In Proceedings of NAACL, 2022. [code](https://github.com/VPeterV/RankSpace-Models)
+In Proceedings of NAACL, 2022(<font color="#dd0000">Top-3 Score in ARR Jan 2022</font>). [code](https://github.com/VPeterV/RankSpace-Models)
 
 [Knowledge-Based Chat Detection With False Mention Discrimination](https://ieeexplore.ieee.org/document/9414073)
 

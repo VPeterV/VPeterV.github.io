@@ -27,6 +27,13 @@ To be more specific, my research interests lie in:
 
 # 📝 Publications (* denotes equal contribution)
 
+[SeqGPT: An Out-of-the-box Large Language Model for Open Domain
+Sequence Understanding](https://arxiv.org/pdf/2308.10529.pdf)
+
+Preprint [code](https://github.com/Alibaba-NLP/SeqGPT)
+
+Tianyu Yu*, Chengyue Jiang*, Chao Lou*, Shen Huang*, Xiaobin Wang, **Wei Liu**, Jiong Cai, Yangning Li, Yinghui Li, Kewei Tu, Hai-Tao Zheng, Ningyu Zhang, Pengjun Xie, Fei Huang, Yong Jiang
+
 [Structured Mean-Field Variational Inference for Higher-Order Span-Based Semantic Role Labeling](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/acl23srl.pdf)
 
 In Findings of ACL, 2023. [code](https://github.com/VPeterV/Structured-MFVI)

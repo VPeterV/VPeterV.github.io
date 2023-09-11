@@ -27,6 +27,13 @@ To be more specific, my research interests lie in:
 
 # 📝 Publications (* denotes equal contribution)
 
+[MathAttack: Attacking Large Language Models Towards Math Solving Ability](https://arxiv.org/pdf/2309.01686.pdf)
+
+Preprint
+
+Zihao Zhou, Qiufeng Wang, Mingyu Jin, Jie Yao, Jianan Ye, **Wei Liu**, Wei Wang, Xiaowei Huang, Kaizhu Huang
+
+
 [SeqGPT: An Out-of-the-box Large Language Model for Open Domain
 Sequence Understanding](https://arxiv.org/pdf/2308.10529.pdf)
 

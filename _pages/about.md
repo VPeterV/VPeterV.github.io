@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Wei Liu (刘威). Currently, I am a second-year graduate student at ShanghaiTech University, advised by Prof. [KeWei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). I am focusing on natural language processing (NLP) and machine learning (ML).
+Hi, my name is Wei Liu (刘威). Currently, I am a final-year graduate student at ShanghaiTech University, advised by Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). I am also a research assistant in [HKUST NLP](https://github.com/hkust-nlp), working closely with Prof. [Junxian He](https://jxhe.github.io/). 
+
+I am focusing on natural language processing (NLP) and machine learning (ML).
 
 To be more specific, my research interests lie in:
   - **Efficient Sequence Modeling**: Exploring more efficient model architecture, particularly for long-range sequence.
@@ -40,6 +42,18 @@ Sequence Understanding](https://arxiv.org/pdf/2308.10529.pdf)
 Preprint [code](https://github.com/Alibaba-NLP/SeqGPT)
 
 Tianyu Yu\*, Chengyue Jiang\*, Chao Lou\*, Shen Huang\*, Xiaobin Wang, **Wei Liu**, Jiong Cai, Yangning Li, Yinghui Li, Kewei Tu, Hai-Tao Zheng, Ningyu Zhang, Pengjun Xie, Fei Huang, Yong Jiang
+
+Simple Hardware-Efficient PCFGs with Independent Left and Right Productions
+
+**Wei Liu**, Songlin Yang, Yoon Kim, Kewei Tu
+
+In Findings of EMNLP, 2023.
+
+Joint Entity and Relation Extraction with Span Pruning and Hypergraph Neural Networks
+
+Zhaohui Yan, Songlin Yang, **Wei Liu**, Kewei Tu
+
+In Proceedings of EMNLP, 2023.
 
 [Structured Mean-Field Variational Inference for Higher-Order Span-Based Semantic Role Labeling](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/acl23srl.pdf)
 

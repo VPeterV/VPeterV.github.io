@@ -43,13 +43,13 @@ Preprint [code](https://github.com/Alibaba-NLP/SeqGPT)
 
 Tianyu Yu\*, Chengyue Jiang\*, Chao Lou\*, Shen Huang\*, Xiaobin Wang, **Wei Liu**, Jiong Cai, Yangning Li, Yinghui Li, Kewei Tu, Hai-Tao Zheng, Ningyu Zhang, Pengjun Xie, Fei Huang, Yong Jiang
 
-Simple Hardware-Efficient PCFGs with Independent Left and Right Productions
+[Simple Hardware-Efficient PCFGs with Independent Left and Right Productions]()
 
 **Wei Liu**, Songlin Yang, Yoon Kim, Kewei Tu
 
 In Findings of EMNLP, 2023.
 
-Joint Entity and Relation Extraction with Span Pruning and Hypergraph Neural Networks
+[Joint Entity and Relation Extraction with Span Pruning and Hypergraph Neural Networks]()
 
 Zhaohui Yan, Songlin Yang, **Wei Liu**, Kewei Tu
 

@@ -22,16 +22,27 @@ Hi, my name is Wei Liu (刘威). Currently, I am a final-year graduate student a
 I am focusing on natural language processing (NLP) and machine learning (ML).
 
 To be more specific, my research interests lie in:
-  - **Efficient Sequence Modeling**: Exploring more efficient model architecture, particularly for long-range sequence.
-  - **Structured Predictions**: Parsing and application of parsing algorithm in downstream tasks.
+  - **Efficiency in Large Language Models (LLMs)**: Enhancing efficiency in training, inference, and handling long-range scenarios for Large Language Models (LLMs)
+  - **Large Language Models (LLMs)**: Explorations of the emergent capabilities and applications in complex scenarios.
+  - **Structured Predictions**: Parsing and application of parsing algorithm in downstream tasks. 
   - **Deep Generative Models**: Deep Latent-variable models.
-  - **Large Language Models (LLMs)**: Explorations of their Emergent Capabilities and Applications in Complex Scenarios.
+
+# News
+  - \[12/2023\] Our [Deita](https://github.com/hkust-nlp/deita) (**D**ata-**E**fficient **I**nstruction **T**uning for **A**lignment) Project has been released! Utilizing only **6K** samples of SFT data selected by Deita, along with **10K** randomly selected preference data, our Deita-7B model has achieved remarkable results, scoring **7.55** on the MT-Bench benchmark, **90.06%** on AlpacaEval, and **69.86** on the OpenLLM Benchmark!
+
+# 📖 Preprint (* denotes equal contribution)
+
+[What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning](https://arxiv.org/abs/2312.15685)
+
+Preprint. [project](https://github.com/hkust-nlp/deita)
+
+Wei Liu\*, Weihao Zeng\*, Keqing He, Yong Jiang, Junxian He
 
 # 📝 Publications (* denotes equal contribution)
 
 [MathAttack: Attacking Large Language Models Towards Math Solving Ability](https://arxiv.org/pdf/2309.01686.pdf)
 
-Preprint
+In Proceedings of AAAI, 2024.
 
 Zihao Zhou, Qiufeng Wang, Mingyu Jin, Jie Yao, Jianan Ye, **Wei Liu**, Wei Wang, Xiaowei Huang, Kaizhu Huang
 
@@ -39,21 +50,21 @@ Zihao Zhou, Qiufeng Wang, Mingyu Jin, Jie Yao, Jianan Ye, **Wei Liu**, Wei Wang,
 [SeqGPT: An Out-of-the-box Large Language Model for Open Domain
 Sequence Understanding](https://arxiv.org/pdf/2308.10529.pdf)
 
-Preprint [code](https://github.com/Alibaba-NLP/SeqGPT)
+In Proceedings of AAAI, 2024. [code](https://github.com/Alibaba-NLP/SeqGPT)
 
 Tianyu Yu\*, Chengyue Jiang\*, Chao Lou\*, Shen Huang\*, Xiaobin Wang, **Wei Liu**, Jiong Cai, Yangning Li, Yinghui Li, Kewei Tu, Hai-Tao Zheng, Ningyu Zhang, Pengjun Xie, Fei Huang, Yong Jiang
 
-[Simple Hardware-Efficient PCFGs with Independent Left and Right Productions]()
+[Simple Hardware-Efficient PCFGs with Independent Left and Right Productions](https://arxiv.org/abs/2310.14997)
 
-**Wei Liu**, Songlin Yang, Yoon Kim, Kewei Tu
+**Wei Liu\***, Songlin Yang\*, Yoon Kim, Kewei Tu
 
-In Findings of EMNLP, 2023.
+In Findings of EMNLP, 2023. [code](https://github.com/sustcsonglin/TN-PCFG)
 
-[Joint Entity and Relation Extraction with Span Pruning and Hypergraph Neural Networks]()
+[Joint Entity and Relation Extraction with Span Pruning and Hypergraph Neural Networks](https://aclanthology.org/2023.emnlp-main.467.pdf)
 
 Zhaohui Yan, Songlin Yang, **Wei Liu**, Kewei Tu
 
-In Proceedings of EMNLP, 2023.
+In Proceedings of EMNLP, 2023. [code](https://github.com/yanzhh/HGERE)
 
 [Structured Mean-Field Variational Inference for Higher-Order Span-Based Semantic Role Labeling](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/acl23srl.pdf)
 
@@ -81,10 +92,13 @@ Zefeng Du, Peijie Huang, Yuhong He, **Wei Liu** & Jiankai Zhu
 In Proceedings of NLPCC, 2019.
 
 # 💻 Internships
-- *2022.07 - Present*, Alibaba DAMO academy
-  - Doing some research about **pre-trained language models** and **few-shot learning**
-  - One of the developers of [AdaSeq](https://github.com/modelscope/AdaSeq)
-  - [MAOE (Paper underwriting)](https://www.modelscope.cn/models/damo/nlp_maoe_named-entity-recognition_general/summary): A pre-trained language model that supports (ultra-)fine-grained named entity recognition. Welcome to try out our model: [Try it now](https://www.modelscope.cn/studios/TTCoding/maoe_fsl_ner/summary)
+
+- *2023.11 - present*, Shanghai AI Laboratory
+  
+- *2022.07 - 2023.10*, Alibaba DAMO Academy
+
+# 🏆 Awards
+- *2023* National Scholarship in China
 
 # 📖 Educations
 - *2021.09 - Present*, ShanghaiTech University, M.S. in computer science

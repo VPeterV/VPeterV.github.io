@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Wei Liu (刘威). Currently, I am a final-year graduate student at ShanghaiTech University, advised by Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). I am also a research assistant in [HKUST NLP](https://github.com/hkust-nlp), working closely with Prof. [Junxian He](https://jxhe.github.io/). 
+Hi, my name is Wei Liu (刘威). Currently, I am a final-year graduate student at ShanghaiTech University, advised by Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). I am also an incoming PhD at [HKUST NLP](https://github.com/hkust-nlp), supervised by Prof. [Junxian He](https://jxhe.github.io/). 
 
 I am focusing on natural language processing (NLP) and machine learning (ML).
 

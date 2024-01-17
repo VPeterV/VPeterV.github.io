@@ -28,17 +28,16 @@ To be more specific, my research interests lie in:
   - **Deep Generative Models**: Deep Latent-variable models.
 
 # News
-  - \[12/2023\] Our [Deita](https://github.com/hkust-nlp/deita) (**D**ata-**E**fficient **I**nstruction **T**uning for **A**lignment) Project has been released! Utilizing only **6K** samples of SFT data selected by Deita, along with **10K** randomly selected preference data, our Deita-7B model has achieved remarkable results, scoring **7.55** on the MT-Bench benchmark, **90.06%** on AlpacaEval, and **69.86** on the OpenLLM Benchmark!
+  - \[01/2024\] Our [Deita](https://github.com/hkust-nlp/deita) paper [What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning](https://arxiv.org/abs/2312.15685) has been accepted by ICLR2024!
+  - \[12/2023\] Our [Deita](https://github.com/hkust-nlp/deita) (**D**ata-**E**fficient **I**nstruction **T**uning for **A**lignment) Project has been released! Utilizing only **6K** samples of SFT data selected by Deita, along with **10K** randomly selected preference data, our Deita-7B model has achieved remarkable results, scoring **7.55** on the MT-Bench benchmark, **90.06%** on AlpacaEval, and **69.86** on the OpenLLM Benchmark! Welcome to try!
 
-# 📖 Preprint (* denotes equal contribution)
+# 📝 Publications (* denotes equal contribution)
 
 [What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning](https://arxiv.org/abs/2312.15685)
 
-Preprint. [project](https://github.com/hkust-nlp/deita)
+In Proceedings of ICLR, 2024. [project](https://github.com/hkust-nlp/deita)
 
-Wei Liu\*, Weihao Zeng\*, Keqing He, Yong Jiang, Junxian He
-
-# 📝 Publications (* denotes equal contribution)
+**Wei Liu**\*, Weihao Zeng\*, Keqing He, Yong Jiang, Junxian He
 
 [MathAttack: Attacking Large Language Models Towards Math Solving Ability](https://arxiv.org/pdf/2309.01686.pdf)
 

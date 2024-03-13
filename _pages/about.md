@@ -90,6 +90,9 @@ Zefeng Du, Peijie Huang, Yuhong He, **Wei Liu** & Jiankai Zhu
 
 In Proceedings of NLPCC, 2019.
 
+# 👥 Service
+- Reviewer: ARR, ACL, NAACL, EMNLP, COLM
+
 # 💻 Internships
 
 - *2023.11 - present*, Shanghai AI Laboratory

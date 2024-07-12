@@ -28,10 +28,17 @@ To be more specific, my research interests lie in:
   - **Deep Generative Models**: Deep Latent-variable models.
 
 # News
+  - \[07/2024\] **Is Your Model Really a Good Math Reasoner?**Let's use [MathCheck](https://mathcheck.github.io/) to **Evaluate Mathematical Reasoning with a Checklist**! Unlike benchmarks that can be tackled merely through memorization, MathCheck reveals the more robust and comprehensive mathematical reasoning abilities of LLMs. It represents **Mathematical Intelligence More Linearly**!
   - \[01/2024\] Our [Deita](https://github.com/hkust-nlp/deita) paper [What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning](https://arxiv.org/abs/2312.15685) has been accepted by ICLR2024!
   - \[12/2023\] Our [Deita](https://github.com/hkust-nlp/deita) (**D**ata-**E**fficient **I**nstruction **T**uning for **A**lignment) Project has been released! Utilizing only **6K** samples of SFT data selected by Deita, along with **10K** randomly selected preference data, our Deita-7B model has achieved remarkable results, scoring **7.55** on the MT-Bench benchmark, **90.06%** on AlpacaEval, and **69.86** on the OpenLLM Benchmark! Welcome to try!
 
 # 📝 Publications (* denotes equal contribution)
+
+[Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist](https://arxiv.org/abs/2407.08733)
+
+Preprint. [project](https://mathcheck.github.io/)
+
+Zihao Zhou\*, Shudong Liu\*, Maizhen Ning, **Wei Liu**, Jindong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang
 
 [What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning](https://arxiv.org/abs/2312.15685)
 

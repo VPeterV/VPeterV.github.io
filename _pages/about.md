@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Wei Liu (刘威). Currently, I am a final-year graduate student at ShanghaiTech University, advised by Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). I am also an incoming PhD at [HKUST NLP](https://github.com/hkust-nlp), supervised by Prof. [Junxian He](https://jxhe.github.io/). 
+Hi, my name is Wei Liu (刘威). Currently, I am an incoming Ph.D. student at incoming PhD at [HKUST NLP](https://github.com/hkust-nlp), supervised by Prof. [Junxian He](https://jxhe.github.io/). Previously, I obtained my master's degree from ShanghaiTech University, advised by Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
 
 I am focusing on natural language processing (NLP) and machine learning (ML).
 
@@ -98,7 +98,7 @@ Zefeng Du, Peijie Huang, Yuhong He, **Wei Liu** & Jiankai Zhu
 In Proceedings of NLPCC, 2019.
 
 # 👥 Service
-- Reviewer: ARR, ACL, NAACL, EMNLP, COLM
+- Reviewer: ARR, ACL, NAACL, EMNLP, COLM, ICLR
 
 # 💻 Internships
 
@@ -110,7 +110,8 @@ In Proceedings of NLPCC, 2019.
 - *2023* National Scholarship in China
 
 # 📖 Educations
-- *2021.09 - Present*, ShanghaiTech University, M.S. in computer science
+- *2024.09 - Present*, The Hong Kong University of Science and Technology, Ph.D. Student in computer science
+- *2021.09 - 2024.07*, ShanghaiTech University, M.S. in computer science
 - *2017.09 - 2021.06*, South China Agricultural University, B.E. in computer science
 
 

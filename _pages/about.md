@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Wei Liu (刘威). Currently, I am an incoming Ph.D. student at [HKUST NLP](https://github.com/hkust-nlp), supervised by Prof. [Junxian He](https://jxhe.github.io/). Previously, I obtained my master's degree from ShanghaiTech University, advised by Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
+Hi, my name is Wei Liu (刘威). Currently, I am a 1st-year Ph.D. student at [HKUST NLP](https://github.com/hkust-nlp), supervised by Prof. [Junxian He](https://jxhe.github.io/). Previously, I obtained my master's degree from ShanghaiTech University, advised by Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
 
-I am focusing on natural language processing (NLP) and machine learning (ML).
+I am focusing on natural language processing (NLP) and machine learning (ML). Recently, I am interested in exploring scalable methods for large language models (LLMs) and improving models' abilities in complex scenarios.
 
 To be more specific, my research interests lie in:
-  - **Efficiency in Large Language Models (LLMs)**: Enhancing efficiency in training, inference, and handling long-range scenarios for Large Language Models (LLMs)
-  - **Large Language Models (LLMs)**: Explorations of the emergent capabilities and applications in complex scenarios.
-  - **Structured Predictions**: Parsing and application of parsing algorithm in downstream tasks. 
-  - **Deep Generative Models**: Deep Latent-variable models.
+  - **Scalable LLMs**: Exploring scalable methods for training, inference in large language models.
+  - **Complex Reasoning**: Improving the reasoning ability of LLMs for complex tasks e.g. Math, Code, and Agents.
+  - **Multi-Modal LLMs**: Investigating the integration of vision, language, and other modalities in LLMs.
+  - **Deep Latent-variable Models**: Deep Latent-variable models.
 
 # News
   - \[07/2024\] **Is Your Model Really a Good Math Reasoner?**Let's use [MathCheck](https://mathcheck.github.io/) to **Evaluate Mathematical Reasoning with a Checklist**! Unlike benchmarks that can be tackled merely through memorization, MathCheck reveals the more robust and comprehensive mathematical reasoning abilities of LLMs. It represents **Mathematical Intelligence More Linearly**!

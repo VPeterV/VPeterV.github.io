@@ -105,11 +105,11 @@ Zefeng Du, Peijie Huang, Yuhong He, **Wei Liu** & Jiankai Zhu
 In Proceedings of NLPCC, 2019.
 
 # 👥 Service
-- Reviewer: ARR, ACL, NAACL, EMNLP, COLM, ICLR
+- Reviewer: ARR, ACL, NAACL, EMNLP, COLM, NeurIPS, ICLR
 
 # 💻 Internships
 
-- *2023.11 - present*, Shanghai AI Laboratory
+- *2023.11 - 2024.08*, Shanghai AI Laboratory, advised by Prof. [Yu Cheng](https://ych133.github.io/)
   
 - *2022.07 - 2023.10*, Alibaba DAMO Academy
 

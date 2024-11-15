@@ -2,3 +2,12 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // 确保访客地图保持可见
+    const visitorMap = document.getElementById('visitor-map');
+    if (visitorMap) {
+        visitorMap.style.display = 'block';
+    }
+});
+</script>

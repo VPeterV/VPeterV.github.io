@@ -36,6 +36,10 @@ To be more specific, my research interests lie in:
 
 # 📝 Publications (* denotes equal contribution)
 
+[7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient](https://hkust-nlp.notion.site/simplerl-reason)
+
+Preprint. [project](https://hkust-nlp.notion.site/simplerl-reason)
+
 [Diving into Self-Evolving Training for Multimodal Reasoning]()
 
 Preprint. [project](https://mstar-lmm.github.io/)

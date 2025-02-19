@@ -28,6 +28,7 @@ To be more specific, my research interests lie in:
   - **Deep Latent-variable Models**: Deep Latent-variable models.
 
 # News
+  - \[01/2025\] Announce our latest effort on O/R-1 Style Model and Scalable Reinforcement Learning for LLM Reasoning! [SimpleRL-Reason](https://hkust-nlp.notion.site/simplerl-reason)
   - \[11/2024\] Announce [M-STAR](https://mstar-lmm.github.io/) (**M**ultimodal **S**elf-Evolving **T**r**A**ining for **R**easoning) project! M-STAR aims at facilitating multimodal reasoning via self-evolving training. More details will be released soon!
   - \[07/2024\] **Is Your Model Really a Good Math Reasoner?**Let's use [MathCheck](https://mathcheck.github.io/) to **Evaluate Mathematical Reasoning with a Checklist**! Unlike benchmarks that can be tackled merely through memorization, MathCheck reveals the more robust and comprehensive mathematical reasoning abilities of LLMs. It represents **Mathematical Intelligence More Linearly**!
   - \[01/2024\] Our [Deita](https://github.com/hkust-nlp/deita) paper [What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning](https://arxiv.org/abs/2312.15685) has been accepted by ICLR2024!

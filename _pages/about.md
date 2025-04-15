@@ -36,43 +36,49 @@ To be more specific, my research interests lie in:
 
 # 📝 Publications (* denotes equal contribution)
 
-[7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient](https://hkust-nlp.notion.site/simplerl-reason)
+[SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild](https://arxiv.org/abs/2503.18892)
+
+Weihao Zeng\*, Yuzhen Huang\*, Qian Liu\*, **Wei Liu**, Keqing He, Zejun Ma, Junxian He
 
 Preprint. [project](https://hkust-nlp.notion.site/simplerl-reason)
 
+[7B Model and 8K Examples: Emerging Reasoning with Reinforcement Learning is Both Effective and Efficient](https://hkust-nlp.notion.site/simplerl-reason)
+
 Weihao Zeng\*, Yuzhen Huang\*, **Wei Liu**, Keqing He, Qian Liu, Zejun Ma, Junxian He
 
-[Diving into Self-Evolving Training for Multimodal Reasoning]()
+Preprint. [project](https://hkust-nlp.notion.site/simplerl-reason) [Twitter](https://x.com/junxian_he/status/1883183099787571519)
 
-Preprint. [project](https://mstar-lmm.github.io/) [Twitter](https://x.com/junxian_he/status/1883183099787571519)
+[Diving into Self-Evolving Training for Multimodal Reasoning](https://arxiv.org/abs/2412.17451)
 
 **Wei Liu**\*, Junlong Li\*, Xiwen Zhang, Fan Zhou, Yu Cheng, Junxian He
 
-[Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist](https://arxiv.org/abs/2407.08733)
+Reasoning and Planning for Large Language Models Workshop at ICLR 2025. [project](https://mstar-lmm.github.io/) 
 
-Preprint. [project](https://mathcheck.github.io/)
+[Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist](https://arxiv.org/abs/2407.08733)
 
 Zihao Zhou\*, Shudong Liu\*, Maizhen Ning, **Wei Liu**, Jindong Wang, Derek F. Wong, Xiaowei Huang, Qiufeng Wang, Kaizhu Huang
 
-[What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning](https://arxiv.org/abs/2312.15685)
 
-In Proceedings of ICLR, 2024. [project](https://github.com/hkust-nlp/deita)
+In Proceedings of ICLR, 2025. [project](https://mathcheck.github.io/)
+
+[What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning](https://arxiv.org/abs/2312.15685)
 
 **Wei Liu**\*, Weihao Zeng\*, Keqing He, Yong Jiang, Junxian He
 
-[MathAttack: Attacking Large Language Models Towards Math Solving Ability](https://arxiv.org/pdf/2309.01686.pdf)
+In Proceedings of ICLR, 2024. [project](https://github.com/hkust-nlp/deita)
 
-In Proceedings of AAAI, 2024.
+[MathAttack: Attacking Large Language Models Towards Math Solving Ability](https://arxiv.org/pdf/2309.01686.pdf)
 
 Zihao Zhou, Qiufeng Wang, Mingyu Jin, Jie Yao, Jianan Ye, **Wei Liu**, Wei Wang, Xiaowei Huang, Kaizhu Huang
 
+In Proceedings of AAAI, 2024.
 
 [SeqGPT: An Out-of-the-box Large Language Model for Open Domain
 Sequence Understanding](https://arxiv.org/pdf/2308.10529.pdf)
 
-In Proceedings of AAAI, 2024. [code](https://github.com/Alibaba-NLP/SeqGPT)
-
 Tianyu Yu\*, Chengyue Jiang\*, Chao Lou\*, Shen Huang\*, Xiaobin Wang, **Wei Liu**, Jiong Cai, Yangning Li, Yinghui Li, Kewei Tu, Hai-Tao Zheng, Ningyu Zhang, Pengjun Xie, Fei Huang, Yong Jiang
+
+In Proceedings of AAAI, 2024. [code](https://github.com/Alibaba-NLP/SeqGPT)
 
 [Simple Hardware-Efficient PCFGs with Independent Left and Right Productions](https://arxiv.org/abs/2310.14997)
 
@@ -88,9 +94,9 @@ In Proceedings of EMNLP, 2023. [code](https://github.com/yanzhh/HGERE)
 
 [Structured Mean-Field Variational Inference for Higher-Order Span-Based Semantic Role Labeling](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/acl23srl.pdf)
 
-In Findings of ACL, 2023. [code](https://github.com/VPeterV/Structured-MFVI)
-
 **Wei Liu**, Songlin Yang, Kewei Tu
+
+In Findings of ACL, 2023. [code](https://github.com/VPeterV/Structured-MFVI)
 
 <!-- Joint Entity and Relation Extraction with Span Pruning and Hypergraph Neural Networks (submitted) -->
 [Dynamic Programming in Rank Space: Scaling Structured Inference with Low-Rank HMMs and PCFGs](https://aclanthology.org/2022.naacl-main.353.pdf)

@@ -28,6 +28,7 @@ To be more specific, my research interests lie in:
   - **Deep Latent-variable Models**: Deep Latent-variable models.
 
 # News
+  - \[05/2025\] Three papers accepted by ICML 2025!
   - \[01/2025\] Announce our latest effort on O/R-1 Style Model and Scalable Reinforcement Learning for LLM Reasoning! [SimpleRL-Reason](https://hkust-nlp.notion.site/simplerl-reason) [Twitter](https://x.com/junxian_he/status/1883183099787571519)
   - \[11/2024\] Announce [M-STAR](https://mstar-lmm.github.io/) (**M**ultimodal **S**elf-Evolving **T**r**A**ining for **R**easoning) project! M-STAR aims at facilitating multimodal reasoning via self-evolving training. More details will be released soon!
   - \[07/2024\] **Is Your Model Really a Good Math Reasoner?**Let's use [MathCheck](https://mathcheck.github.io/) to **Evaluate Mathematical Reasoning with a Checklist**! Unlike benchmarks that can be tackled merely through memorization, MathCheck reveals the more robust and comprehensive mathematical reasoning abilities of LLMs. It represents **Mathematical Intelligence More Linearly**!
@@ -35,6 +36,25 @@ To be more specific, my research interests lie in:
   - \[12/2023\] Our [Deita](https://github.com/hkust-nlp/deita) (**D**ata-**E**fficient **I**nstruction **T**uning for **A**lignment) Project has been released! Utilizing only **6K** samples of SFT data selected by Deita, along with **10K** randomly selected preference data, our Deita-7B model has achieved remarkable results, scoring **7.55** on the MT-Bench benchmark, **90.06%** on AlpacaEval, and **69.86** on the OpenLLM Benchmark! Welcome to try!
 
 # 📝 Publications (* denotes equal contribution)
+
+[Diving into Self-Evolving Training for Multimodal Reasoning](https://arxiv.org/abs/2412.17451)
+
+**Wei Liu**\*, Junlong Li\*, Xiwen Zhang, Fan Zhou, Yu Cheng, Junxian He
+
+In Proceedings of ICML, 2025. \| Reasoning and Planning for Large Language Models Workshop at ICLR 2025. [project](https://mstar-lmm.github.io/)
+
+[Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents
+via Offline Hierarchical Reinforcement Learning]()
+
+Zican Hu, **Wei Liu**, Xiaoye Qu, Xiangyu Yue, Chunlin Chen, Zhi Wang, Yu Cheng
+
+In Proceedings of ICML, 2025.
+
+[Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging]()
+
+Shiqi Chen\*, Jinghan Zhang\*, Tongyao Zhu, **Wei Liu**, Siyang Gao, Miao Xiong, Manling Li, Junxian He 
+
+In Proceedings of ICML, 2025.
 
 [SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild](https://arxiv.org/abs/2503.18892)
 
@@ -47,12 +67,6 @@ Preprint. [project](https://hkust-nlp.notion.site/simplerl-reason)
 Weihao Zeng\*, Yuzhen Huang\*, **Wei Liu**, Keqing He, Qian Liu, Zejun Ma, Junxian He
 
 Preprint. [project](https://hkust-nlp.notion.site/simplerl-reason) [Twitter](https://x.com/junxian_he/status/1883183099787571519)
-
-[Diving into Self-Evolving Training for Multimodal Reasoning](https://arxiv.org/abs/2412.17451)
-
-**Wei Liu**\*, Junlong Li\*, Xiwen Zhang, Fan Zhou, Yu Cheng, Junxian He
-
-Reasoning and Planning for Large Language Models Workshop at ICLR 2025. [project](https://mstar-lmm.github.io/) 
 
 [Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist](https://arxiv.org/abs/2407.08733)
 

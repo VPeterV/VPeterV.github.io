@@ -42,7 +42,7 @@ To be more specific, my research interests lie in:
 
 **Wei Liu**, Ruochen Zhou, Yiyun Deng, Yuzhen Huang, Junteng Liu, Yuntian Deng, Yizhe Zhang, Junxian He
 
-Preprint. | [Project](https://github.com/hkust-nlp/Laser)
+Preprint. \| [Project](https://github.com/hkust-nlp/Laser)
 
 [Diving into Self-Evolving Training for Multimodal Reasoning](https://arxiv.org/abs/2412.17451)
 

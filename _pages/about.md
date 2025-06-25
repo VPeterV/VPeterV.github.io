@@ -143,6 +143,8 @@ In Proceedings of NLPCC, 2019.
 
 # 💻 Internships
 
+- *2025.06 - present*, Tiktok Research, Singapore
+
 - *2023.11 - 2024.08*, Shanghai AI Laboratory, advised by Prof. [Yu Cheng](https://ych133.github.io/)
   
 - *2022.07 - 2023.10*, Alibaba DAMO Academy

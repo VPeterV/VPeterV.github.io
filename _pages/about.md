@@ -143,7 +143,7 @@ In Proceedings of NLPCC, 2019.
 
 # 💻 Internships
 
-- *2025.06 - present*, Tiktok Research, Singapore
+- *2025.06 - present*, TikTok AI Innovation Center, Singapore
 
 - *2023.11 - 2024.08*, Shanghai AI Laboratory, advised by Prof. [Yu Cheng](https://ych133.github.io/)
   

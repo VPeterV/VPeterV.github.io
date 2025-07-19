@@ -143,11 +143,11 @@ In Proceedings of NLPCC, 2019.
 
 # 💻 Internships
 
-- *2025.06 - Present*, Research Scientist Intern, TikTok AI Innovation Center, Singapore, advised by [Qian Liu](https://siviltaram.github.io/)
+- *2025.06 - Present*, TikTok AI Innovation Center, Singapore, Research Scientist Intern, advised by [Qian Liu](https://siviltaram.github.io/)
 
-- *2023.11 - 2024.08*, Research Intern, Shanghai AI Laboratory, advised by Prof. [Yu Cheng](https://ych133.github.io/)
+- *2023.11 - 2024.08*, Shanghai AI Laboratory, Research Intern, advised by Prof. [Yu Cheng](https://ych133.github.io/)
   
-- *2022.07 - 2023.10*, Research Intern, Alibaba DAMO Academy, advised by [Yong Jiang](https://jiangyong.site/)
+- *2022.07 - 2023.10*, Alibaba DAMO Academy, Research Intern, advised by [Yong Jiang](https://jiangyong.site/)
 
 # 🏆 Awards
 - *2023* National Scholarship in China

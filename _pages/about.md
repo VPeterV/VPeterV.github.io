@@ -116,6 +116,9 @@ I am interested in investigating scalable and principled methods to build perfor
 **Wei Liu**, Ruochen Zhou, Yiyun Deng, Yuzhen Huang, Junteng Liu, Yuntian Deng, Yizhe Zhang, Junxian He
 
 In Proceedings of ICLR, 2026. \| [Project](https://github.com/hkust-nlp/Laser)
+</div>
+
+<div class="pub-item" markdown="1">
 
 [The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution
 ](https://arxiv.org/abs/2510.25726)

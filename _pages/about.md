@@ -111,18 +111,18 @@ I am interested in investigating scalable and principled methods to build perfor
 
 <div class="pub-item" markdown="1">
 
+[Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/abs/2505.15612)
+
+**Wei Liu**, Ruochen Zhou, Yiyun Deng, Yuzhen Huang, Junteng Liu, Yuntian Deng, Yizhe Zhang, Junxian He
+
+In Proceedings of ICLR, 2026. \| [Project](https://github.com/hkust-nlp/Laser)
+
 [The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution
 ](https://arxiv.org/abs/2510.25726)
 
 Junlong Li, Wenshuo Zhao, Jian Zhao, Weihao Zeng, Haoze Wu, Xiaochen Wang, Rui Ge, Yuxuan Cao, Yuzhen Huang, **Wei Liu**, Junteng Liu, Zhaochen Su, Yiyang Guo, Fan Zhou, Lueyang Zhang, Juan Michelini, Xingyao Wang, Xiang Yue, Shuyan Zhou, Graham Neubig, Junxian He
 
-Preprint. \| [Project](https://toolathlon.xyz/introduction)
-
-[Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/abs/2505.15612)
-
-**Wei Liu**, Ruochen Zhou, Yiyun Deng, Yuzhen Huang, Junteng Liu, Yuntian Deng, Yizhe Zhang, Junxian He
-
-Preprint. \| [Project](https://github.com/hkust-nlp/Laser)
+In Proceedings of ICLR, 2026. \| [Project](https://toolathlon.xyz/introduction)
 
 </div>
 

@@ -154,6 +154,12 @@ I am interested in investigating scalable and principled methods to build perfor
 
 <div class="pub-item" markdown="1">
 
+[Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
+
+</div>
+
+<div class="pub-item" markdown="1">
+
 [Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations](https://arxiv.org/abs/2602.05885)
 
 **Wei Liu**, Jiawei Xu, Yingru Li, Longtao Zheng, Tianjian Li, Qian Liu, Junxian He

@@ -95,7 +95,7 @@ I am interested in investigating scalable and principled methods to build perfor
 
 <div class="news-container" markdown="1">
 
-- \[05/2026\] Our [Dr. Kernel](https://github.com/hkust-nlp/KernelGYM) and [The Optimal Token Baseline](https://arxiv.org/abs/2602.07078) have been accepted to ICML2026.
+- \[05/2026\] Our [Dr. Kernel \& KernelGYM](https://github.com/hkust-nlp/KernelGYM) and [The Optimal Token Baseline](https://arxiv.org/abs/2602.07078) have been accepted to ICML2026.
 - \[04/2026\] Introducing [Kimi-K2.6](https://www.kimi.com/blog/kimi-k2-6), our latest model, featuring advanced coding and agentic capabilities.
 - \[02/2026\] We release [Dr. Kernel](https://arxiv.org/abs/2602.05885) and [KernelGYM](https://github.com/hkust-nlp/KernelGYM) -- RL done right for Triton kernel generation! Dr. Kernel achieves significant kernel performance by combining RL with a comprehensive gym environment for Triton kernels. [Twitter](https://x.com/WeiLiu99/status/2019629573194019282)
 - \[05/2025\] We release [Laser](https://arxiv.org/abs/2505.15612) to improve efficacy-efficiency trade-off of Large Reasoning Models, improving AIME24 +6.1 while reducing 63% of tokens used!
@@ -158,7 +158,7 @@ I am interested in investigating scalable and principled methods to build perfor
 
 **Wei Liu**, Jiawei Xu, Yingru Li, Longtao Zheng, Tianjian Li, Qian Liu, Junxian He
 
-Preprint. \| [Project](https://github.com/hkust-nlp/KernelGYM)
+In Proceedings of ICML, 2026. \| [Project](https://github.com/hkust-nlp/KernelGYM)
 </div>
 
 <div class="pub-item" markdown="1">
@@ -167,7 +167,7 @@ Preprint. \| [Project](https://github.com/hkust-nlp/KernelGYM)
 
 Yingru Li, Jiawei Xu, Ziniu Li, Jiacai Liu, **Wei Liu**, Yuxuan Tong, Longtao Zheng, Zhenghai Xue, Yaxiang Zhang, Tianle Cai, Ge Zhang, Qian Liu, Baoxiang Wang
 
-Preprint.
+In Proceedings of ICML, 2026.
 </div>
 
 <div class="pub-item full-only" markdown="1">

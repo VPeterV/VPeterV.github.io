@@ -156,6 +156,8 @@ I am interested in investigating scalable and principled methods to build perfor
 
 [Kimi K2.6: Advancing Open-Source Coding](https://www.kimi.com/blog/kimi-k2-6)
 
+Kimi Team
+
 </div>
 
 <div class="pub-item" markdown="1">

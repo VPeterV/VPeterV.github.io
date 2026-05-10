@@ -95,6 +95,8 @@ I am interested in investigating scalable and principled methods to build perfor
 
 <div class="news-container" markdown="1">
 
+- \[05/2026\] Our [Dr. Kernel](https://github.com/hkust-nlp/KernelGYM) and [The Optimal Token Baseline](https://arxiv.org/abs/2602.07078) have been accepted to ICML2026.
+- \[04/2026\] Introducing [Kimi-K2.6](https://www.kimi.com/blog/kimi-k2-6), our latest model, featuring advanced coding and agentic capabilities.
 - \[02/2026\] We release [Dr. Kernel](https://arxiv.org/abs/2602.05885) and [KernelGYM](https://github.com/hkust-nlp/KernelGYM) -- RL done right for Triton kernel generation! Dr. Kernel achieves significant kernel performance by combining RL with a comprehensive gym environment for Triton kernels. [Twitter](https://x.com/WeiLiu99/status/2019629573194019282)
 - \[05/2025\] We release [Laser](https://arxiv.org/abs/2505.15612) to improve efficacy-efficiency trade-off of Large Reasoning Models, improving AIME24 +6.1 while reducing 63% of tokens used!
 - \[05/2025\] Three papers accepted by ICML 2025!

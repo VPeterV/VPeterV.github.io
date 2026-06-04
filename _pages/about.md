@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, my name is Wei Liu (刘威). Currently, I am a 2nd-year Ph.D. student at [HKUST NLP](https://github.com/hkust-nlp), supervised by Prof. [Junxian He](https://jxhe.github.io/). Previously, I obtained my master's degree from ShanghaiTech University, advised by Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
+Hi, my name is Wei Liu (刘威). Currently, I am a 2nd-year Ph.D. student at [HKUST NLP](https://github.com/hkust-nlp), supervised by Prof. [Junxian He](https://jxhe.github.io/). Previously, I obtained my master's degree from ShanghaiTech University, advised by Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/). Now I am also contributing to building coding agents at DeepSeek AI.
 
 I am interested in investigating scalable and principled methods to build performant AI models that can interact with complex, real-world environments. My current research topics include:
 
@@ -369,7 +369,7 @@ function showFull() {
 # 👥 Service
 - Reviewer: ARR, ACL, NAACL, EMNLP, COLM, NeurIPS, ICLR, ICML
 
-# 💻 Internships
+# 💻 Professional Experience
 
 <style>
 .timeline {
@@ -426,9 +426,12 @@ function showFull() {
 
 <div class="timeline">
   <div class="timeline-item current">
-    <div class="timeline-date">2026.03 - Present</div>
+    <div class="timeline-date">2026.06 - Present</div>
+    <div class="timeline-title">DeepSeek</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2026.03 - 2026.05</div>
     <div class="timeline-title">Moonshot AI</div>
-    <div class="timeline-desc">Research Scientist Intern</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2025.06 - 2026.02</div>
